@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishrdx,
+- 👋 Hi, I’m @KrishKumar!
 - 👀 I’m interested in wasting my time on learning skills,
 - 🌱 I’m currently learning DSA in C++ and some video editing stuffs,
 - 💞️ I’m looking to collaborate on making projects regarding of internships.
