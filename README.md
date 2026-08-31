@@ -1,5 +1,5 @@
 - Hi, I’m @KrishKumar!
-- Problem Solver/Fresher at Data Analyst/ Finance+Stock_Market_Enthusiast / Learning ML.
+- Problem Solver/ Data Analyst/ Interests in LLMs.
 - I’m looking to collaborate on making projects regarding of internships.
 <!---
 Krishrdx/Krishrdx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
